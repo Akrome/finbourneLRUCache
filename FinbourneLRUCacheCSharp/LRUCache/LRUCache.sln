@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRUCache", "LRUCache.csproj", "{0D26AD3C-77A6-44D4-8EB1-E5A27BD153EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRUCacheTest", "..\LRUCacheTest\LRUCacheTest.csproj", "{264ACB2B-398A-416D-A49C-69721894C6ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D26AD3C-77A6-44D4-8EB1-E5A27BD153EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D26AD3C-77A6-44D4-8EB1-E5A27BD153EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D26AD3C-77A6-44D4-8EB1-E5A27BD153EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D26AD3C-77A6-44D4-8EB1-E5A27BD153EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264ACB2B-398A-416D-A49C-69721894C6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264ACB2B-398A-416D-A49C-69721894C6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264ACB2B-398A-416D-A49C-69721894C6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264ACB2B-398A-416D-A49C-69721894C6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C67EA862-9817-4116-94DA-F6B4536F3AFD}
+	EndGlobalSection
+EndGlobal

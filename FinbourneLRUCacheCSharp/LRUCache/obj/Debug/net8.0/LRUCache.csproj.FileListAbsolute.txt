@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\LRUCache\bin\Debug\net8.0\LRUCache.exe
+C:\Users\diego\source\repos\LRUCache\bin\Debug\net8.0\LRUCache.deps.json
+C:\Users\diego\source\repos\LRUCache\bin\Debug\net8.0\LRUCache.runtimeconfig.json
+C:\Users\diego\source\repos\LRUCache\bin\Debug\net8.0\LRUCache.dll
+C:\Users\diego\source\repos\LRUCache\bin\Debug\net8.0\LRUCache.pdb
+C:\Users\diego\source\repos\LRUCache\obj\Debug\net8.0\LRUCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\LRUCache\obj\Debug\net8.0\LRUCache.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\LRUCache\obj\Debug\net8.0\LRUCache.AssemblyInfo.cs
+C:\Users\diego\source\repos\LRUCache\obj\Debug\net8.0\LRUCache.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\LRUCache\obj\Debug\net8.0\LRUCache.dll
+C:\Users\diego\source\repos\LRUCache\obj\Debug\net8.0\refint\LRUCache.dll
+C:\Users\diego\source\repos\LRUCache\obj\Debug\net8.0\LRUCache.pdb
+C:\Users\diego\source\repos\LRUCache\obj\Debug\net8.0\LRUCache.genruntimeconfig.cache
+C:\Users\diego\source\repos\LRUCache\obj\Debug\net8.0\ref\LRUCache.dll
